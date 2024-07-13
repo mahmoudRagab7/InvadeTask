@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro X1",
+    "category": "Electronics",
+    "price": 1299.99,
+    "brand": "TechCo",
+    "image": "https://cdn.mos.cms.futurecdn.net/FaWzjCAbZAq8z6fgfhNEGC-1200-80.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Coffee Maker Deluxe",
+    "category": "Appliances",
+    "price": 89.99,
+    "brand": "HomeBrew",
+    "image": "https://innoteck.co.uk/wp-content/uploads/2022/08/DS-5040_1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes AirMax",
+    "category": "Sports",
+    "price": 149.99,
+    "brand": "ActiveGear",
+    "image": "https://www.tradeinn.com/f/13624/136243473/nike-air-max-running-shoes.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Leather Backpack Vintage",
+    "category": "Fashion",
+    "price": 259.99,
+    "brand": "UrbanStyle",
+    "image": "https://steelhorseleather.com/cdn/shop/products/product-image-670440556.jpg?v=1626461763"
+  },
+  {
+    "id": 5,
+    "name": "Wireless Headphones SoundWave",
+    "category": "Electronics",
+    "price": 199.99,
+    "brand": "AudioPro",
+    "image": "https://i5.walmartimages.com/seo/Visual-Land-SOUNDWAVE-A1-Active-Noise-Cancelling-True-Wireless-Bluetooth-v5-3-In-Ear-Headphones-Black_969808ac-2ee4-4895-97e1-c52d7cf13d0f.97cf5efc1bd1cb1cd0556960ab5b4808.png"
+  },
+  {
+    "id": 6,
+    "name": "Espresso Machine Barista",
+    "category": "Appliances",
+    "price": 399.99,
+    "brand": "CoffeeLuxe",
+    "image": "https://www.cnet.com/a/img/resize/8780dc35ccd5b147050687b7c79e5739c06c18b9/hub/2016/03/14/b6138b09-1416-466d-b17f-5142d9996b76/brevilleespressoproductphotos-13.jpg?auto=webp&width=768"
+  },
+  {
+    "id": 7,
+    "name": "Hiking Boots TrailMaster",
+    "category": "Sports",
+    "price": 119.99,
+    "brand": "OutdoorX",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOBIZuzBFTHFxx1EodZjzTidFocfzFJm1zYA&s"
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses Aviator Classic",
+    "category": "Fashion",
+    "price": 99.99,
+    "brand": "SunShades",
+    "image": "https://images2.ray-ban.com//cdn-record-files-pi/f2a2b356-cf47-4e4c-bd0e-a35900057b03/453350a3-3444-4336-95dd-ad1b007c0da8/0RB3025__L0205__STD__shad__qt.png?impolicy=RB_Product_clone&width=800&bgc=%23f2f2f2"
+  },
+  {
+    "id": 9,
+    "name": "Smartwatch FitnessTrack",
+    "category": "Electronics",
+    "price": 249.99,
+    "brand": "FitLife",
+    "image": "https://i.ebayimg.com/images/g/7jMAAOSwhtFl9kMI/s-l400.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Blender PowerMix",
+    "category": "Appliances",
+    "price": 69.99,
+    "brand": "KitchenAid",
+    "image": "https://m.media-amazon.com/images/I/61fX157vAzL.jpg"
+  }
+]
