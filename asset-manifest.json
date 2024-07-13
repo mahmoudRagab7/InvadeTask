@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/InvadeTask/static/css/main.ea8688fb.css",
+    "main.js": "/InvadeTask/static/js/main.097ac97d.js",
+    "static/js/787.1e2de308.chunk.js": "/InvadeTask/static/js/787.1e2de308.chunk.js",
+    "static/media/IBMPlexSansArabic-Medium.ttf": "/InvadeTask/static/media/IBMPlexSansArabic-Medium.d11e0289157d639b94b6.ttf",
+    "static/media/IBMPlexSansArabic-Thin.ttf": "/InvadeTask/static/media/IBMPlexSansArabic-Thin.bc878e9b7faa76e7e516.ttf",
+    "static/media/IBMPlexSansArabic-Light.ttf": "/InvadeTask/static/media/IBMPlexSansArabic-Light.6a59d58ae4cfca8c5bec.ttf",
+    "static/media/IBMPlexSansArabic-Regular.ttf": "/InvadeTask/static/media/IBMPlexSansArabic-Regular.c44430ea2cca5f882c25.ttf",
+    "static/media/4929d930-d6a5-11ec-bb19-d9085ce408df-background-description.avif": "/InvadeTask/static/media/4929d930-d6a5-11ec-bb19-d9085ce408df-background-description.b6e82eb7168b41e36305.avif",
+    "static/media/image001.png": "/InvadeTask/static/media/image001.e2843226f05400977d5e.png",
+    "index.html": "/InvadeTask/index.html",
+    "main.ea8688fb.css.map": "/InvadeTask/static/css/main.ea8688fb.css.map",
+    "main.097ac97d.js.map": "/InvadeTask/static/js/main.097ac97d.js.map",
+    "787.1e2de308.chunk.js.map": "/InvadeTask/static/js/787.1e2de308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea8688fb.css",
+    "static/js/main.097ac97d.js"
+  ]
+}
